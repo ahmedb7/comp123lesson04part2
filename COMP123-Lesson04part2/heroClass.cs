@@ -19,6 +19,7 @@ namespace COMP123_Lesson04part2
         this.health = health;
         this.smarts = smarts;
         this.gender = gender;
+            //hekko
 
     }
         public void doesGoodThings()
